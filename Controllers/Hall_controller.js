@@ -33,7 +33,35 @@ let roomsDetails = [
 ];
 
 //Booking room details in a local variable
-let bookingRoom = [];
+let bookingRoom = [
+    {
+        customerName: "Vimal",
+        bookingDate: "20/06/2024",
+        startTime: "12:00pm",
+        endTime: "11:59am",
+        bookingID: "1",
+        roomId: "2",
+        booked_On: "18/6/2024",
+      },
+      {
+        customerName: "Susee",
+        bookingDate: "20/06/2024",
+        startTime: "12:00pm",
+        endTime: "11:59am",
+        bookingID: "2",
+        roomId: "1",
+        booked_On: "15/6/2024",
+      },
+      {
+        customerName: "Sai",
+        bookingDate: "10/06/2024",
+        startTime: "12:00pm",
+        endTime: "11:59am",
+        bookingID: "3",
+        roomId: "1",
+        booked_On: "13/6/2024",
+      },
+];
 
 //server running
 export const serverConnect = (req, res)=>{
