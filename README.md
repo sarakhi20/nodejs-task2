@@ -38,22 +38,22 @@ I used Postman to test my api endpoints are working fine.
 ## Screenshots
 
 All Rooms
-![image](https://github.com/Prakash-V-S/hall-booking/assets/141955456/ea1744dc-d9ac-4fe4-ae76-40983521c3aa)
+![image](https://github.com/sarakhi20/nodejs-task2/blob/main/public/Images/allRooms.png)
 
 create Rooms
-![image](https://github.com/Prakash-V-S/hall-booking/assets/141955456/7b6bcd75-e587-48aa-ac0a-06e2527332de)
+![image](https://github.com/sarakhi20/nodejs-task2/blob/main/public/Images/createRooms.png)
 
 room Booking
-![image](https://github.com/Prakash-V-S/hall-booking/assets/141955456/b61b537a-8f6b-4759-bc75-1024f5fd945f)
+![image](https://github.com/sarakhi20/nodejs-task2/blob/main/public/Images/roomBooking.png)
 
 all Booked Room Details
-![image](https://github.com/Prakash-V-S/hall-booking/assets/141955456/00aa7763-04be-4f36-861a-8f2dfef2ef22)
+![image](https://github.com/sarakhi20/nodejs-task2/blob/main/public/Images/allBookedRoomDetails.png)
 
 all Booked Customer Details
-![image](https://github.com/Prakash-V-S/hall-booking/assets/141955456/9f720c6d-3526-422e-a9fc-d7a9fa6f94c3)
+![image](https://github.com/sarakhi20/nodejs-task2/blob/main/public/Images/allBookedCustomerDetails.png)
 
 customer Book Details
-![image](https://github.com/Prakash-V-S/hall-booking/assets/141955456/1f76c759-463b-4522-96f3-f5e319846ca7)
+![image](https://github.com/sarakhi20/nodejs-task2/blob/main/public/Images/customerBookDetails.png)
 
 ## Setup
 
@@ -69,6 +69,4 @@ Open [http://localhost:3333](http://localhost:3333) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-## Feedback
 
-If you have any feedback, please reach out to me at prakashvs.official@gmail.com
