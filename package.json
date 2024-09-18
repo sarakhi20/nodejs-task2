@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VijayMayhul/hall-booking.git"
+    "url": "https://github.com/sarakhi20/nodejs-task2.git"
   },
   "keywords": [
     "hall",
@@ -20,9 +20,9 @@
   "author": "vijay",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/VijayMayhul/hall-booking/issues"
+    "url": "https://github.com/sarakhi20/nodejs-task2.git"
   },
-  "homepage": "https://github.com/VijayMayhul/hall-booking#readme",
+  "homepage": "https://github.com/sarakhi20/nodejs-task2.git",
   "dependencies": {
     "cors": "^2.8.5",
     "date-fns": "^3.3.1",
